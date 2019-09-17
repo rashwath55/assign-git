@@ -2,3 +2,10 @@
 • What does fast-forward in Git mean?
 • Why should you have different branches?
 • In a project how many remote Git repositories do you usually have?
+Answers:
+1.Ans)gitignore file consists of file extensions that should be ignored. It adds file extensions for files you do not want to put in source control like .class,.log extensions for a java project.
+2.Ans)When you merge a branch ahead of checkout branch (one or multiple commits),it is called fastforwarding in Git.
+3.Ans)It is because we don't want any problems or errors in the master branch,so we create a branch to edit it seperately.
+4.Ans)Usually,there is only one Git repository for a project
+
+
